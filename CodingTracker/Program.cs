@@ -10,7 +10,7 @@ namespace CodingTracker
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Estamos probando ConsoleApp!");
+            Console.WriteLine("Hola Estamos probando ConsoleApp con c#");
         }
     }
 }
